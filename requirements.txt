@@ -1,2 +1,1 @@
-reflex
-reflex-chat
+reflex>=0.5.5
